@@ -4,7 +4,8 @@
   "description": "Backend for Vinyle Project",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start":"node index.js"
   },
   "author": "Ciarán Melarkey",
   "license": "ISC",
