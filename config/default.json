@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://VinyleDatabase:LadE5McgAS1j9ipy@vinylecluster.ommzx.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken"
+}
